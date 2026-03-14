@@ -1,7 +1,7 @@
 # Dayz-Hub RDP Blocker
 
 Download https://github.com/zer0sec/RDPBLOCKER/releases/tag/rdpblocker
-![Description of the image](assets/screenshot.png)
+![RDP Blocker window](screenshot2.png)
 **Windows desktop tool that automatically blocks RDP brute-force attacks** by monitoring failed Remote Desktop logins and adding Windows Firewall rules to block abusive IPs. Ideal for game servers, dev machines, and any PC exposed to the internet over RDP.
 
 ---
