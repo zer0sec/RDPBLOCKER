@@ -1,4 +1,4 @@
-# Dayz-Hub RDP Blocker
+# RDP Blocker
 
 Download https://github.com/zer0sec/RDPBLOCKER/releases/tag/rdpblocker
 ![RDP Blocker window](Screenshot_2.png)
